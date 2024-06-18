@@ -1,3 +1,9 @@
+## Video Demo
+
+[Watch the video demo](https://drive.google.com/file/d/1ovxQGM15JcyDcXuifHXGsy-_XlIDNofi/view?usp=drive_link)
+
+
+
 ## Screen Shots
 
 <div style="display: flex; flex-wrap: wrap;">
@@ -13,9 +19,6 @@
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/Aas-md/TheScholar/assets/112398359/12925c65-76ac-4cfc-bfa7-1a6238858994" alt="App Screenshot" width="400" height="700">
 </div>
-
-
-
 
 
 
