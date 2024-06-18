@@ -1,16 +1,16 @@
-# my_scholar
+## College & School Student Helper App
 
-A new Flutter project.
+### Features
 
-## Getting Started
+- **Resource Sharing**: Students can share exam results, PDF files, previous year question papers, news about hiring or organization events, and college events.
+- **User Posts**: Users can create posts that are visible to everyone. Posts can be liked and commented on.
+- **Post Saving**: Users can save any post for future reference, similar to saving liked videos on YouTube.
+- **User Profiles**: Students can view and edit their profiles. They can also view the profiles of other users.
+- **Firebase Integration**: Utilizes Firebase for storage and Firestore for the database.
+- **Authentication**: Supports phone number and Google authentication.
+- **Additional Authentication**: Includes iPhone and Facebook authentication using Firebase.
+- **Notifications**: Implemented push notifications with the help of Firebase.
 
-This project is a starting point for a Flutter application.
+- ### Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Tech Stack**: Flutter, Firebase (Firestore, Authentication, Storage), Dart programming language,MVVM architechture,oops etc
