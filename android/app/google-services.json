@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759351128993",
+    "project_id": "my-scholar-5fca8",
+    "storage_bucket": "my-scholar-5fca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759351128993:android:0590a7ebded707dc3e51e0",
+        "android_client_info": {
+          "package_name": "com.aas.my_scholar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPCcZkAd8HCp5SrfX0bq0iUxa3y-teb50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
