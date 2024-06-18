@@ -1,3 +1,24 @@
+## Screen Shots
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/Aas-md/TheScholar/assets/112398359/b9ef675c-06a9-4e0d-8a1a-2b06d391d769" alt="App Screenshot" width="400" height="700">
+  <img src="https://github.com/Aas-md/TheScholar/assets/112398359/a8e416e6-2d66-4bb4-ac8c-ac8525f7036e" alt="App Screenshot" width="400" height="700">
+</div>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/Aas-md/TheScholar/assets/112398359/d581bc96-2531-4707-ae8b-458f8dd21c97" alt="App Screenshot" width="400" height="700">
+  <img src="https://github.com/Aas-md/TheScholar/assets/112398359/ac8876a9-3da9-4767-aba8-cedeed7bec61" alt="App Screenshot" width="400" height="700">
+</div>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/Aas-md/TheScholar/assets/112398359/12925c65-76ac-4cfc-bfa7-1a6238858994" alt="App Screenshot" width="400" height="700">
+</div>
+
+
+
+
+
+
 ## College & School Student Helper App
 
 ### Features
